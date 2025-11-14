@@ -3,6 +3,6 @@ numpy
 matplotlib
 seaborn
 yfinance
-statsmodel
+statsmodels
 plotly
 datetime
